@@ -18,6 +18,8 @@ The **Excellence in Innovation Award Program** recognizes the most outstanding s
 
 This is a real, lasting recognition. Future employers, collaborators, and grad school admissions committees can see it directly on GitHub. Don't miss your shot! 🚀
 
+<img src="certificate.png" width="400">
+
 ---
 
 ## 📋 How to Get Your Project Featured — Step by Step
