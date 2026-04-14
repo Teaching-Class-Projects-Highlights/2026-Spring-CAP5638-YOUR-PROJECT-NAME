@@ -24,7 +24,7 @@ This is a real, lasting recognition. Future employers, collaborators, and grad s
 
 ## 📋 How to Get Your Project Featured — Step by Step
 
-### Step 1 — 📬 Send Us Your GitHub Username
+### Step 1 — 📬 Send Us Your GitHub Username AND Your Full Name (that you wish to appear on your certificate).
 Email or message the instructor with your **GitHub username**. We'll send you an invitation to join the organization.
 
 ### Step 2 — 🛠️ Create Your Team's Repository
