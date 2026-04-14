@@ -4,7 +4,7 @@ Yushun Dong (yd24f@fsu.edu), Department of Computer Science, Florida State Unive
 
 # 🏆 Excellence in Innovation Award Program
 
-> **Top projects from this course are selected for permanent showcasing here on GitHub — complete with an official endorsement and a certificate you can proudly feature on your résumé!**
+> **Top projects from this course are selected for permanent showcasing here on GitHub — complete with an official endorsement and a course award you can proudly feature on your résumé!**
 
 ---
 
@@ -14,18 +14,18 @@ The **Excellence in Innovation Award Program** recognizes the most outstanding s
 
 - 📌 **Featured semi-permanently** in this GitHub organization as a public showcase
 - 🎓 **Officially endorsed** by the instructor — a credible, verifiable addition to your résumé
-- 🏅 **Awarded a certificate** of excellence to celebrate your hard work
+- 🏅 **Awarded a course award** of excellence to celebrate your hard work
 
 This is a real, lasting recognition. Future employers, collaborators, and grad school admissions committees can see it directly on GitHub. Don't miss your shot! 🚀
 
-<img src="certificate.png" width="400">
+<img src="course-award.png" width="400">
 
 ---
 
 ## 📋 How to Get Your Project Featured — Step by Step
 
-### Step 1 — 📬 Send Us Your GitHub Username AND Your Full Name (that you wish to appear on your certificate).
-Email or message the instructor with your **GitHub username** AND your full name that you wish to appear on your certificate. We'll send you an invitation to join the organization and make the certificate for you.
+### Step 1 — 📬 Send Us Your GitHub Username AND Your Full Name (that you wish to appear on your course award).
+Email or message the instructor with your **GitHub username** AND your full name that you wish to appear on your course award. We'll send you an invitation to join the organization and make the course award for you.
 
 ### Step 2 — 🛠️ Create Your Team's Repository
 Once you've accepted the invite, create a **new repo inside the organization** following this exact naming format (match the example repo name):
