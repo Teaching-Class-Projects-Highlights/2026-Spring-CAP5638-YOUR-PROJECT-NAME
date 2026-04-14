@@ -1,6 +1,6 @@
 # 2026-Spring-CAP-5638-YOUR-PROJECT-NAME
 
-Yushun Dong, Department of Computer Science, Florida State University
+Yushun Dong (yd24f@fsu.edu), Department of Computer Science, Florida State University
 
 # 🏆 Excellence in Innovation Award Program
 
