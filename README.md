@@ -58,7 +58,7 @@ Your project README should include:
 
 ---
 
-## 📦 Data Policy — Keep It Lean!
+## 📦 Data Policy — Keep Your Repo Lean!
 
 > ⚠️ **Do NOT upload your dataset directly to the repo.**
 
