@@ -1,4 +1,4 @@
-# 2026-Spring-CAP-5638-YOUR-PROJECT-NAME
+# 2026-Spring-CAP5638-YOUR-PROJECT-NAME
 
 Yushun Dong (yd24f@fsu.edu), Department of Computer Science, Florida State University
 
