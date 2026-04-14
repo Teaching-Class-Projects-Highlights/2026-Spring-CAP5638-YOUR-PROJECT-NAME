@@ -11,7 +11,7 @@ This is an examplery repo of showcasing your class projects.
 
 The **Excellence in Innovation Award Program** recognizes the most outstanding student projects from our course. Selected teams will be:
 
-- 📌 **Featured permanently** in this GitHub organization as a public showcase
+- 📌 **Featured semi-permanently** in this GitHub organization as a public showcase
 - 🎓 **Officially endorsed** by the instructor — a credible, verifiable addition to your résumé
 - 🏅 **Awarded a certificate** of excellence to celebrate your hard work
 
